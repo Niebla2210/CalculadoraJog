@@ -1,3 +1,0 @@
-import React, { useState } from "react";
-// Código extraído previamente...
-// Este contenido debe ser igual al documento abierto en el canvas, asumido como correcto y completo.
